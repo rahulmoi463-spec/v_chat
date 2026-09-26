@@ -1,4 +1,5 @@
-import 'package0:supabase_flutter/supabase_flutter.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
+
 
 class SupabaseConfig {
   // আপনার Supabase ড্যাশবোর্ডের Settings > API থেকে পাওয়া URL ও Anon Key এখানে বসান
